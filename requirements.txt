@@ -4,6 +4,6 @@ numpy
 matplotlib
 pymongo
 certifi
-datetime
+dnspython
 
 #-e .
