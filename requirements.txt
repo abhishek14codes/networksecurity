@@ -6,5 +6,9 @@ pymongo
 certifi
 dnspython
 scikit-learn
+dill
+pyaml
+
+
 
 #-e .
