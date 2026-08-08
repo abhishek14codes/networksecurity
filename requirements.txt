@@ -6,8 +6,11 @@ pymongo
 certifi
 dnspython
 scikit-learn
-
+mlflow
 pyaml
+dagshub
+fastapi
+uvicorn
 
 
 
